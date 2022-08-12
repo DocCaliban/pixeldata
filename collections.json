@@ -1,0 +1,642 @@
+[
+ {
+   "path": "3do",
+   "name": "3DO Interactive Multiplayer"
+ },
+ {
+   "path": "aae",
+   "name": "Another Arcade Emulator"
+ },
+ {
+   "path": "achievements",
+   "name": "Achievements"
+ },
+ {
+   "path": "alu",
+   "name": "AtGames Legends Ultimate"
+ },
+ {
+   "path": "american_laser_games",
+   "name": "American Laser Games"
+ },
+ {
+   "path": "amiga",
+   "name": "Amiga"
+ },
+ {
+   "path": "amstrad_gx4000",
+   "name": "Armstrad GX4000"
+ },
+ {
+   "path": "amstradcpc",
+   "name": "Armstrad CPC"
+ },
+ {
+   "path": "animations",
+   "name": "Animations"
+ },
+ {
+   "path": "apple2",
+   "name": "Apple ]["
+ },
+ {
+   "path": "asteroids",
+   "name": "Asteroids"
+ },
+ {
+   "path": "atari_st",
+   "name": "Atari ST"
+ },
+ {
+   "path": "atari2600",
+   "name": "Atari 2600"
+ },
+ {
+   "path": "atari5200",
+   "name": "Atari 5200"
+ },
+ {
+   "path": "atari7800",
+   "name": "Atari 7800"
+ },
+ {
+   "path": "atari800",
+   "name": "Atari 800"
+ },
+ {
+   "path": "atarijaguar",
+   "name": "Atari Jaguar"
+ },
+ {
+   "path": "atarilynx",
+   "name": "Atari Lynx"
+ },
+ {
+   "path": "bally_astrocade",
+   "name": "Bally Astrocade"
+ },
+ {
+   "path": "bandai_wonderswan",
+   "name": "Bandai WonderSwan"
+ },
+ {
+   "path": "c64",
+   "name": "Commodore 64"
+ },
+ {
+   "path": "capcom",
+   "name": "Capcom"
+ },
+ {
+   "path": "capcom_play_system",
+   "name": "Capcom Play System"
+ },
+ {
+   "path": "capcom_play_system_ii",
+   "name": "Capcom Play System II"
+ },
+ {
+   "path": "capcom_play_system_iii",
+   "name": "Capcom Play System III"
+ },
+ {
+   "path": "casio_pv-1000",
+   "name": "PV-1000"
+ },
+ {
+   "path": "cave",
+   "name": "CAVE"
+ },
+ {
+   "path": "centipede",
+   "name": "Centipede"
+ },
+ {
+   "path": "coleco",
+   "name": "ColecoVision"
+ },
+ {
+   "path": "commodore_128",
+   "name": "commodore_128"
+ },
+ {
+   "path": "commodore_cdtv",
+   "name": "Commodore CDTV"
+ },
+ {
+   "path": "commodore_vic-20",
+   "name": "Commodore VIC-20"
+ },
+ {
+   "path": "console",
+   "name": "Pixelcade Console Artwork"
+ },
+ {
+   "path": "daphne",
+   "name": "Daphne"
+ },
+ {
+   "path": "digdug",
+   "name": "Dig Dug"
+ },
+ {
+   "path": "donkeykong",
+   "name": "Donkey Kong"
+ },
+ {
+   "path": "dos",
+   "name": "Microsoft DOS"
+ },
+ {
+   "path": "doujin_soft",
+   "name": "Doujin soft"
+ },
+ {
+   "path": "dreamcast",
+   "name": "Sega Dreamcast"
+ },
+ {
+   "path": "emerson_arcadia_2001",
+   "name": "Arcadia 2001"
+ },
+ {
+   "path": "entex_adventure_vision",
+   "name": "Entex Adventure Vision"
+ },
+ {
+   "path": "fairchild_channel_f",
+   "name": "Fairchild Channel F"
+ },
+ {
+   "path": "final_burn_alpha",
+   "name": "Final Burn Alpha"
+ },
+ {
+   "path": "frogger",
+   "name": "Frogger"
+ },
+ {
+   "path": "fujitsu_fm_towns",
+   "name": "FM Towns"
+ },
+ {
+   "path": "futurepinball",
+   "name": "Future Pinball"
+ },
+ {
+   "path": "galaga",
+   "name": "Galga"
+ },
+ {
+   "path": "galaxian",
+   "name": "Galaxian"
+ },
+ {
+   "path": "gamegear",
+   "name": "Sega Game Gear"
+ },
+ {
+   "path": "gamepark_gp32",
+   "name": "GP32"
+ },
+ {
+   "path": "gb",
+   "name": "Game Boy"
+ },
+ {
+   "path": "gba",
+   "name": "Game Boy Advanced"
+ },
+ {
+   "path": "gbc",
+   "name": "Game Boy Color"
+ },
+ {
+   "path": "genesis",
+   "name": "Genesis"
+ },
+ {
+   "path": "intellivision",
+   "name": "Intellivision"
+ },
+ {
+   "path": "interton_electronic_vc_4000",
+   "name": "Interton VC 4000\n"
+ },
+ {
+   "path": "joust",
+   "name": "Joust"
+ },
+ {
+   "path": "jukebox",
+   "name": "Jukebox"
+ },
+ {
+   "path": "kodi",
+   "name": "Kodi"
+ },
+ {
+   "path": "locomalito_games",
+   "name": "Locomalito"
+ },
+ {
+   "path": "macintosh",
+   "name": "Macintosh"
+ },
+ {
+   "path": "magnavox_odyssey",
+   "name": "Magnavox Odyssey"
+ },
+ {
+   "path": "magnavox_odyssey 2",
+   "name": "Magnavox Odyssey 2"
+ },
+ {
+   "path": "mame",
+   "name": "M.A.M.E."
+ },
+ {
+   "path": "mastersystem",
+   "name": "Master System"
+ },
+ {
+   "path": "mattel_aquarius",
+   "name": "Mattel Aquarius"
+ },
+ {
+   "path": "mattel_intellivision",
+   "name": "Mattel Intellivision"
+ },
+ {
+   "path": "megadrive",
+   "name": "Mega Drive"
+ },
+ {
+   "path": "megaduck",
+   "name": "Mega Duck"
+ },
+ {
+   "path": "mgt_sam_coupe",
+   "name": "SAM Coupé"
+ },
+ {
+   "path": "microsoft_ms-dos",
+   "name": "Ms Dos"
+ },
+ {
+   "path": "microsoft_msx2",
+   "name": "MSX"
+ },
+ {
+   "path": "microsoft_windows_3.x",
+   "name": "Microsoft Windows 3.x"
+ },
+ {
+   "path": "microsoft_xbox",
+   "name": "Microsoft Xbox"
+ },
+ {
+   "path": "Misc",
+   "name": "Misc"
+ },
+ {
+   "path": "misfit_mame",
+   "name": "MiSFiTMAME"
+ },
+ {
+   "path": "msx",
+   "name": "Sony MSX"
+ },
+ {
+   "path": "mugen",
+   "name": "Mugen"
+ },
+ {
+   "path": "n64",
+   "name": "Nintendo 64"
+ },
+ {
+   "path": "nec_pc_engine-cd",
+   "name": "NEC PC Engine CD"
+ },
+ {
+   "path": "nec_pc_fx",
+   "name": "PC-FX"
+ },
+ {
+   "path": "nec_supergrafx",
+   "name": "PC Engine SuperGrafx"
+ },
+ {
+   "path": "nec_turbografx_cd",
+   "name": "TurboGrafx-16 (CD)"
+ },
+ {
+   "path": "nec_turbografx-16",
+   "name": "TurboGrafx-16"
+ },
+ {
+   "path": "neogeo",
+   "name": "Neo Geo"
+ },
+ {
+   "path": "nes",
+   "name": "Nintendo Entertainment System"
+ },
+ {
+   "path": "nesicaxlive",
+   "name": "Taito NESiCAxLive"
+ },
+ {
+   "path": "ngp",
+   "name": "Neo Geo Pocket"
+ },
+ {
+   "path": "ngpc",
+   "name": "Neo Geo Pocket Color"
+ },
+ {
+   "path": "nintendo_3ds",
+   "name": "Nintendo 3DS"
+ },
+ {
+   "path": "nintendo_64dd",
+   "name": "Nintendo 64dd"
+ },
+ {
+   "path": "nintendo_arcade_systems",
+   "name": "Nintendo Arcade Systems"
+ },
+ {
+   "path": "nintendo_ds",
+   "name": "Nintendo DS"
+ },
+ {
+   "path": "nintendo_famicom",
+   "name": "Nintendo Family Computer"
+ },
+ {
+   "path": "nintendo_famicon_disk_system",
+   "name": "Nintendo Family Computer Disk System"
+ },
+ {
+   "path": "nintendo_game_and_watch",
+   "name": "Nintendo Game and Watch"
+ },
+ {
+   "path": "nintendo_gamecube",
+   "name": "Nintendo GameCube"
+ },
+ {
+   "path": "nintendo_pokemon_mini",
+   "name": "Pokémon Mini"
+ },
+ {
+   "path": "nintendo_satellaview",
+   "name": "Satellaview"
+ },
+ {
+   "path": "nintendo_sufami_turbo",
+   "name": "SuFami Turbo"
+ },
+ {
+   "path": "nintendo_super_famicom",
+   "name": "Super Famicom"
+ },
+ {
+   "path": "nintendo_super_game_boy",
+   "name": "Super Game Boy"
+ },
+ {
+   "path": "nintendo_switch",
+   "name": "Switch"
+ },
+ {
+   "path": "nintendo_virtual_boy",
+   "name": "Nintendo Virtual Boy"
+ },
+ {
+   "path": "nintendo_wii",
+   "name": "Nintendo Wii"
+ },
+ {
+   "path": "nintendo_wii_u",
+   "name": "Wii U"
+ },
+ {
+   "path": "odyssey",
+   "name": "Magnavox Odyssey"
+ },
+ {
+   "path": "openbor",
+   "name": "OpenBOR "
+ },
+ {
+   "path": "panasonic_3do",
+   "name": "Panasonic 3DO Interactive Multiplayer"
+ },
+ {
+   "path": "pc",
+   "name": "PC"
+ },
+ {
+   "path": "pcengine",
+   "name": "NEC PC Engine"
+ },
+ {
+   "path": "philips_cd-i",
+   "name": "CD-i"
+ },
+ {
+   "path": "pinball_fx2",
+   "name": "Pinball FX2"
+ },
+ {
+   "path": "pinball_fx3",
+   "name": "Pinball FX3"
+ },
+ {
+   "path": "popcap",
+   "name": "PopCap Games"
+ },
+ {
+   "path": "ps2",
+   "name": "PlayStation 2"
+ },
+ {
+   "path": "psp",
+   "name": "PlayStation Portable"
+ },
+ {
+   "path": "psx",
+   "name": "PlayStation"
+ },
+ {
+   "path": "sammy_atomiswave",
+   "name": "Atomiswave"
+ },
+ {
+   "path": "saturn",
+   "name": "Sega Saturn"
+ },
+ {
+   "path": "scummvm",
+   "name": "Scumm VM"
+ },
+ {
+   "path": "sega_model_2",
+   "name": "Sega Model 2"
+ },
+ {
+   "path": "sega_model_3",
+   "name": "Sega Model 3"
+ },
+ {
+   "path": "sega_naomi",
+   "name": "New Arcade Operation Machine Idea"
+ },
+ {
+   "path": "sega_pico",
+   "name": "Sega Pico"
+ },
+ {
+   "path": "sega_saturn",
+   "name": "Sega Saturn"
+ },
+ {
+   "path": "sega_sc_3000",
+   "name": "SC-3000"
+ },
+ {
+   "path": "sega_st-v",
+   "name": "Sega Titan Video"
+ },
+ {
+   "path": "sega_triforce",
+   "name": "Triforce"
+ },
+ {
+   "path": "sega_vmu",
+   "name": "Visual Memory System"
+ },
+ {
+   "path": "sega32x",
+   "name": "Sega 32X"
+ },
+ {
+   "path": "segacd",
+   "name": "Sega CD"
+ },
+ {
+   "path": "sg-1000",
+   "name": "SG-1000"
+ },
+ {
+   "path": "sinclair_zx81",
+   "name": "ZX81"
+ },
+ {
+   "path": "snes",
+   "name": "Super Nintendo Entertainment System"
+ },
+ {
+   "path": "snk_neo_geo_aes",
+   "name": "Neo Geo AES"
+ },
+ {
+   "path": "snk_neo_geo_cd",
+   "name": "Neo Geo CD"
+ },
+ {
+   "path": "snk_neo_geo_mvs",
+   "name": "Neo Geo MVS"
+ },
+ {
+   "path": "snk_neo_geo_pocket",
+   "name": "Neo Geo Pocket Color"
+ },
+ {
+   "path": "sony_playstation_3",
+   "name": "PlayStation 3"
+ },
+ {
+   "path": "sony_playstation_minis",
+   "name": "PlayStation minis"
+ },
+ {
+   "path": "sony_pocketstation",
+   "name": "PocketStation"
+ },
+ {
+   "path": "steam",
+   "name": "Steam"
+ },
+ {
+   "path": "supergrafx",
+   "name": "PC Engine SuperGrafx"
+ },
+ {
+   "path": "taito_type_x",
+   "name": "Taito Arcade Board"
+ },
+ {
+   "path": "teknoparrot",
+   "name": "TeknoParrot"
+ },
+ {
+   "path": "ti99",
+   "name": "TI-99"
+ },
+ {
+   "path": "user",
+   "name": "User"
+ },
+ {
+   "path": "vectrex",
+   "name": "Vectrex"
+ },
+ {
+   "path": "virtualboy",
+   "name": "Virtual Boy"
+ },
+ {
+   "path": "visualpinball",
+   "name": "Visual Pinball"
+ },
+ {
+   "path": "watara_supervision",
+   "name": "Watara Supervision"
+ },
+ {
+   "path": "windows",
+   "name": "Windows and Steam"
+ },
+ {
+   "path": "wonderswan",
+   "name": "Wonder Swan"
+ },
+ {
+   "path": "wonderswancolor",
+   "name": "Wonder Swan Color"
+ },
+ {
+   "path": "wow_action_max",
+   "name": "Action Max"
+ },
+ {
+   "path": "zmachine",
+   "name": "Z-machine"
+ },
+ {
+   "path": "zxspectrum",
+   "name": "ZX Spectrum"
+ },
+ {
+   "path": "ps4",
+   "name": "PlayStation 4"
+ },
+ {
+   "path": "ps5",
+   "name": "PlayStation 5"
+ }
+]
